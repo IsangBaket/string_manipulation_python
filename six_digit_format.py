@@ -8,7 +8,6 @@ def again():
     else:
         print("Thank you for trying out my simple program.")
 
-
 def digit():
     num = int(input("Input a number from 0 - 1000: "))
     if num <= 1000:
