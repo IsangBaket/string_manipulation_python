@@ -3,4 +3,4 @@
 name = input("Try inputing your name in inproper casing: ").lower()
 name = name.title()
 
-print(name)
+print(f"Your name is {name}")
